@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "srKo7mh9HmpGVBRc5AQeFHNuPtWaVb6HSXBDkCEjaFOJV4kF3kBbb3TZ7gZkxEbyLACvIreQC8El26SBlssPmA==",
+  "success": true,
+  "projectFilePath": "/Users/champillon/SandBox/template-dotnet/template-dotnet.csproj",
+  "expectedPackageFiles": [
+    "/Users/champillon/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/champillon/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/champillon/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/champillon/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/champillon/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/champillon/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
