@@ -1,4 +1,5 @@
 using Prometheus;
+using Elastic.Apm.NetCoreAll;
 
 public class Startup {
     public IConfiguration configRoot {
@@ -13,6 +14,8 @@ public class Startup {
         services.AddSwaggerGen();
     }
     public void Configure(WebApplication app, IWebHostEnvironment env) {
+        app.UseAllElasticApm(configRoot);
+
         if (!app.Environment.IsDevelopment()) {
             app.UseSwagger();
             app.UseSwaggerUI();

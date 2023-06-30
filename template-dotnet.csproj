@@ -10,6 +10,7 @@
   <ItemGroup>
     <PackageReference Include="prometheus-net.AspNetCore" Version="7.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+     <PackageReference Include="Elastic.Apm.NetCoreAll" Version="1.22.0" />
   </ItemGroup>
 
 </Project>
